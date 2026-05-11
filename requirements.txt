@@ -7,4 +7,4 @@ gradio
 requests
 scipy
 scikit-learn
-shapely
+shapelypyarrow
