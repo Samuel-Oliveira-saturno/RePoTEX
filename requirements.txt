@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+folium
+geopandas
+gradio
+requests
+scipy
+shapely
+scikit-learn
+pyarrow
+fastparquet
